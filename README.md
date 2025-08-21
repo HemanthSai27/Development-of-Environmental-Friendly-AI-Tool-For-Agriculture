@@ -98,11 +98,3 @@ Evaluation metrics:
 
 > Update with actual results after model evaluation.
 
----
-
-## 🔧 Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/Development-of-Environmental-Friendly-AI-Tool-For-Agriculture.git
-cd Development-of-Environmental-Friendly-AI-Tool-For-Agriculture
